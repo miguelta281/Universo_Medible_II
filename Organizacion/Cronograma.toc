@@ -1,0 +1,4 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Contenidos}{1}{section.1}% 
+\contentsline {section}{\numberline {2}Sesi\IeC {\'o}n 0}{2}{section.2}% 
+\contentsline {section}{\numberline {3}Sesi\IeC {\'o}n 1}{2}{section.3}% 
