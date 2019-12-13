@@ -1,0 +1,6 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Objetivo}{1}{section.1}% 
+\contentsline {section}{\numberline {2}Contenido}{1}{section.2}% 
+\contentsline {section}{\numberline {3}Recursos}{1}{section.3}% 
+\contentsline {section}{\numberline {4}Marco conceptual}{2}{section.4}% 
+\contentsline {subsection}{\numberline {4.1}Cuerpos celestes}{2}{subsection.4.1}% 
