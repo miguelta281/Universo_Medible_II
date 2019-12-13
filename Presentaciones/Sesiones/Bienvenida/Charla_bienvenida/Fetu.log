@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.11.3)  13 DEC 2019 00:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.11.3)  13 DEC 2019 16:00
 entering extended mode
 **./Fetu.tex
 (Fetu.tex
@@ -1324,11 +1324,11 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 75.
 "
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<Imagenes/Logo_Halley.png, id=19, 48.18pt x 6.7452pt>
+<Imagenes/Logo_Halley.png, id=19, 150.5625pt x 70.01157pt>
 File: Imagenes/Logo_Halley.png Graphic file (type png)
 <use Imagenes/Logo_Halley.png>
 Package pdftex.def Info: Imagenes/Logo_Halley.png  used on input line 75.
-(pdftex.def)             Requested size: 96.35971pt x 13.49033pt.
+(pdftex.def)             Requested size: 45.16908pt x 21.00362pt.
  [1
 
 {C:/Users/Miguel/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Imagenes
@@ -1348,7 +1348,7 @@ Package pdftex.def Info: Imagenes/cielo_estrellado_2.jpeg  used on input line 1
 File: Imagenes/Logo_Halley.png Graphic file (type png)
 <use Imagenes/Logo_Halley.png>
 Package pdftex.def Info: Imagenes/Logo_Halley.png  used on input line 107.
-(pdftex.def)             Requested size: 96.35971pt x 13.49033pt.
+(pdftex.def)             Requested size: 45.16908pt x 21.00362pt.
  [2
 
  <./Imagenes/cielo_estrellado_1.jpg> <./Imagenes/cielo_estrellado_2.jpeg>]
@@ -1360,7 +1360,7 @@ Package pdftex.def Info: Imagenes/Constelaciones.png  used on input line 117.
 File: Imagenes/Logo_Halley.png Graphic file (type png)
 <use Imagenes/Logo_Halley.png>
 Package pdftex.def Info: Imagenes/Logo_Halley.png  used on input line 117.
-(pdftex.def)             Requested size: 96.35971pt x 13.49033pt.
+(pdftex.def)             Requested size: 45.16908pt x 21.00362pt.
  [3
 
  <./Imagenes/Constelaciones.png>]
@@ -1373,7 +1373,7 @@ Package pdftex.def Info: Imagenes/Triangulo_verano.jpg  used on input line 127.
 File: Imagenes/Logo_Halley.png Graphic file (type png)
 <use Imagenes/Logo_Halley.png>
 Package pdftex.def Info: Imagenes/Logo_Halley.png  used on input line 127.
-(pdftex.def)             Requested size: 96.35971pt x 13.49033pt.
+(pdftex.def)             Requested size: 45.16908pt x 21.00362pt.
  [4
 
  <./Imagenes/Triangulo_verano.jpg>]
@@ -1385,7 +1385,7 @@ Package pdftex.def Info: Imagenes/Tales_De_Mileto.jpg  used on input line 151.
 File: Imagenes/Logo_Halley.png Graphic file (type png)
 <use Imagenes/Logo_Halley.png>
 Package pdftex.def Info: Imagenes/Logo_Halley.png  used on input line 151.
-(pdftex.def)             Requested size: 96.35971pt x 13.49033pt.
+(pdftex.def)             Requested size: 45.16908pt x 21.00362pt.
  [5
 
  <./Imagenes/Tales_De_Mileto.jpg>]
@@ -1397,7 +1397,7 @@ Package pdftex.def Info: Imagenes/Eclipse_solar.jpg  used on input line 161.
 File: Imagenes/Logo_Halley.png Graphic file (type png)
 <use Imagenes/Logo_Halley.png>
 Package pdftex.def Info: Imagenes/Logo_Halley.png  used on input line 161.
-(pdftex.def)             Requested size: 96.35971pt x 13.49033pt.
+(pdftex.def)             Requested size: 45.16908pt x 21.00362pt.
  [6
 
  <./Imagenes/Eclipse_solar.jpg>]
@@ -1409,7 +1409,7 @@ Package pdftex.def Info: Imagenes/Aristoteles.jpg  used on input line 184.
 File: Imagenes/Logo_Halley.png Graphic file (type png)
 <use Imagenes/Logo_Halley.png>
 Package pdftex.def Info: Imagenes/Logo_Halley.png  used on input line 184.
-(pdftex.def)             Requested size: 96.35971pt x 13.49033pt.
+(pdftex.def)             Requested size: 45.16908pt x 21.00362pt.
  [7
 
  <./Imagenes/Aristoteles.jpg>]
@@ -1421,7 +1421,7 @@ Package pdftex.def Info: Imagenes/Geocentrico.png  used on input line 194.
 File: Imagenes/Logo_Halley.png Graphic file (type png)
 <use Imagenes/Logo_Halley.png>
 Package pdftex.def Info: Imagenes/Logo_Halley.png  used on input line 194.
-(pdftex.def)             Requested size: 96.35971pt x 13.49033pt.
+(pdftex.def)             Requested size: 45.16908pt x 21.00362pt.
  [8
 
  <./Imagenes/Geocentrico.png>]
@@ -1433,7 +1433,7 @@ Package pdftex.def Info: Imagenes/Copernico.jpg  used on input line 217.
 File: Imagenes/Logo_Halley.png Graphic file (type png)
 <use Imagenes/Logo_Halley.png>
 Package pdftex.def Info: Imagenes/Logo_Halley.png  used on input line 217.
-(pdftex.def)             Requested size: 96.35971pt x 13.49033pt.
+(pdftex.def)             Requested size: 45.16908pt x 21.00362pt.
 
 [9
 
@@ -1447,7 +1447,7 @@ ine 227.
 File: Imagenes/Logo_Halley.png Graphic file (type png)
 <use Imagenes/Logo_Halley.png>
 Package pdftex.def Info: Imagenes/Logo_Halley.png  used on input line 227.
-(pdftex.def)             Requested size: 96.35971pt x 13.49033pt.
+(pdftex.def)             Requested size: 45.16908pt x 21.00362pt.
  [10
 
  <./Imagenes/boveda_celeste_copernico.jpg>]
@@ -1459,7 +1459,7 @@ Package pdftex.def Info: Imagenes/Helio_Geo.jpg  used on input line 236.
 File: Imagenes/Logo_Halley.png Graphic file (type png)
 <use Imagenes/Logo_Halley.png>
 Package pdftex.def Info: Imagenes/Logo_Halley.png  used on input line 236.
-(pdftex.def)             Requested size: 96.35971pt x 13.49033pt.
+(pdftex.def)             Requested size: 45.16908pt x 21.00362pt.
 
 [11
 
@@ -1472,7 +1472,7 @@ Package pdftex.def Info: Imagenes/Galileo.jpg  used on input line 260.
 File: Imagenes/Logo_Halley.png Graphic file (type png)
 <use Imagenes/Logo_Halley.png>
 Package pdftex.def Info: Imagenes/Logo_Halley.png  used on input line 260.
-(pdftex.def)             Requested size: 96.35971pt x 13.49033pt.
+(pdftex.def)             Requested size: 45.16908pt x 21.00362pt.
  [12
 
  <./Imagenes/Galileo.jpg>]
@@ -1484,7 +1484,7 @@ Package pdftex.def Info: Imagenes/m_s.jpg  used on input line 278.
 File: Imagenes/Logo_Halley.png Graphic file (type png)
 <use Imagenes/Logo_Halley.png>
 Package pdftex.def Info: Imagenes/Logo_Halley.png  used on input line 278.
-(pdftex.def)             Requested size: 96.35971pt x 13.49033pt.
+(pdftex.def)             Requested size: 45.16908pt x 21.00362pt.
  [13
 
  <./Imagenes/m_s.jpg>]
@@ -1496,7 +1496,7 @@ Package pdftex.def Info: Imagenes/fases_lunares.jpg  used on input line 296.
 File: Imagenes/Logo_Halley.png Graphic file (type png)
 <use Imagenes/Logo_Halley.png>
 Package pdftex.def Info: Imagenes/Logo_Halley.png  used on input line 296.
-(pdftex.def)             Requested size: 96.35971pt x 13.49033pt.
+(pdftex.def)             Requested size: 45.16908pt x 21.00362pt.
  [14
 
  <./Imagenes/fases_lunares.jpg>]
@@ -1513,7 +1513,7 @@ Overfull \hbox (4.43481pt too wide) in paragraph at lines 315--315
 File: Imagenes/Logo_Halley.png Graphic file (type png)
 <use Imagenes/Logo_Halley.png>
 Package pdftex.def Info: Imagenes/Logo_Halley.png  used on input line 315.
-(pdftex.def)             Requested size: 96.35971pt x 13.49033pt.
+(pdftex.def)             Requested size: 45.16908pt x 21.00362pt.
 [15
 
  <./Imagenes/Lunas_jupiter.jpg>]
@@ -1524,7 +1524,7 @@ LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
 File: Imagenes/Logo_Halley.png Graphic file (type png)
 <use Imagenes/Logo_Halley.png>
 Package pdftex.def Info: Imagenes/Logo_Halley.png  used on input line 324.
-(pdftex.def)             Requested size: 96.35971pt x 13.49033pt.
+(pdftex.def)             Requested size: 45.16908pt x 21.00362pt.
 [16
 
 ]
@@ -1555,7 +1555,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  30330 strings out of 492895
  584709 string characters out of 3123268
- 680968 words of memory out of 3000000
+ 680969 words of memory out of 3000000
  33675 multiletter control sequences out of 15000+200000
  540048 words of font info for 53 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1565,7 +1565,7 @@ s/cm/cmss10.pfb><C:/Users/Miguel/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
 public/amsfonts/cm/cmss12.pfb><C:/Users/Miguel/AppData/Local/Programs/MiKTeX 2.
 9/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/Miguel/AppData/Local/Progr
 ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
-Output written on Fetu.pdf (16 pages, 62737640 bytes).
+Output written on Fetu.pdf (16 pages, 62745215 bytes).
 PDF statistics:
  181 PDF objects out of 1000 (max. 8388607)
  33 named destinations out of 1000 (max. 500000)
